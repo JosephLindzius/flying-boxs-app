@@ -2,7 +2,7 @@
 
 ![flying-through-3D-boxes](./movingboxs.png)
 
-[Check out link here]()
+[Check out the site here](https://josephlindzius.github.io/flying-boxs-app/index.html)
 
 ## Information 
 
